@@ -1,0 +1,12 @@
+Ubicación del controlador
+app/Http/Controllers/EstudiantesController.php
+
+Ubicación del modelo
+app/Models/Estudiantes.php 
+
+Ubicación de las vistas
+resources/views/actualizar.blade.php
+resources/views/eliminar.blade.php
+resources/views/inicio.blade.php
+resources/views/layout/plantilla.blade.php
+
